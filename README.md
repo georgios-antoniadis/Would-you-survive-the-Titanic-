@@ -14,4 +14,6 @@ In the case where the attribute had a negligible effect the attribute was alloca
 
 Α basic ui is available when running the application which allows the user to choose between a number of functions. In there someone can pick between using the individuals who have answered the questionnaire or manually "creating" a passenger.
 
-It needs to be noted that someone needs to manually download the csv file from the google forms website and place it in the application's folder for the algorithm to work.
+It needs to be noted that someone needs to manually download the csv file from the google forms website and place it in the application's folder for the algorithm to work. I am gonna refer to the latter process as a "local prodection" for future reference
+
+In the case of someone making a "local prediction" upon making the prediction a gif will appear depending on the outcome. I have provided the ones I used but one can use any gif he/she desires. Just remember to replace the file name in the code.
